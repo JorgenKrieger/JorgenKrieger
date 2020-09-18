@@ -17,13 +17,13 @@
 </a>
 
 <br/>
+<br/>
 
 ### Once upon a time there was...
 
 <p>Me! Hey, I'm a <strong>UX Designer</strong> for <a href="https://roxmedia.nl" target="_blank" rel=”noopener noreferrer”>Rox Media</a> with a strong interest in all kinds of Development. Currently located in <em>Rotterdam, The Netherlands</em> 🇳🇱</p>
 
 <p>This profile will reflect my desire to streamline everything. From automating my setup through dotfiles, to a template for web projects and concepts for electron apps.</p>
-<br/>
 
 ### Some random facts
 
@@ -33,11 +33,4 @@
 
 ### Tech Stack
 
-<img src="https://img.shields.io/badge/-SASS-000.svg?colorA=CC6699&logo=Sass&logoColor=FFF&style=for-the-badge">
-<img src="https://img.shields.io/badge/-ES6-000.svg?colorA=F7DF1E&logo=JavaScript&logoColor=000&style=for-the-badge">
-<img src="https://img.shields.io/badge/-TypeScript-000.svg?colorA=007ACC&logo=TypeScript&logoColor=FFF&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Babel-000.svg?colorA=F9DC3E&logo=Babel&logoColor=000&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Webpack-000.svg?colorA=8DD6F9&logo=Webpack&logoColor=000&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Docker-000.svg?colorA=2496ED&logo=Docker&logoColor=FFF&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Electron-000.svg?colorA=47848F&logo=Electron&logoColor=FFF&style=for-the-badge">
-<img src="https://img.shields.io/badge/-Python-000.svg?colorA=3776AB&logo=Python&logoColor=FFF&style=for-the-badge">
+<img src="https://img.shields.io/badge/-SASS-000.svg?colorA=CC6699&logo=Sass&logoColor=FFF&style=for-the-badge"> <img src="https://img.shields.io/badge/-ES6-000.svg?colorA=F7DF1E&logo=JavaScript&logoColor=000&style=for-the-badge"> <img src="https://img.shields.io/badge/-TypeScript-000.svg?colorA=007ACC&logo=TypeScript&logoColor=FFF&style=for-the-badge"> <img src="https://img.shields.io/badge/-Babel-000.svg?colorA=F9DC3E&logo=Babel&logoColor=000&style=for-the-badge"> <img src="https://img.shields.io/badge/-Webpack-000.svg?colorA=8DD6F9&logo=Webpack&logoColor=000&style=for-the-badge"> <img src="https://img.shields.io/badge/-Docker-000.svg?colorA=2496ED&logo=Docker&logoColor=FFF&style=for-the-badge"> <img src="https://img.shields.io/badge/-Electron-000.svg?colorA=47848F&logo=Electron&logoColor=FFF&style=for-the-badge"> <img src="https://img.shields.io/badge/-Python-000.svg?colorA=3776AB&logo=Python&logoColor=FFF&style=for-the-badge">
