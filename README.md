@@ -1,6 +1,4 @@
-<h1>Hey, I'm
-	<img src="jorgen.svg" style="height:1.5em;transform:translateY(20%)">
-</h1>
+<img src="jorgen.svg" />
 
 <a href="https://linkedin.com/in/jorgenkrieger" target="_blank" rel="noopener noreferrer">
 	<img align="left" alt="Jörgen's LinkedIn" width="22" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
