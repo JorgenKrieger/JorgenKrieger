@@ -1,22 +1,21 @@
-<img src="jorgen.svg" />
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Jörgen</h1>
+<h4 align="center">A dutch UX designer with a strong ~~obsession~~ interest in all kinds of developments.</h1>
+<div align="center">
+<a href="https://linkedin.com/in/jorgenkrieger" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-LinkedIn-08529B.svg?style=for-the-badge&colorA=0A66C2&logoColor=FFF&logo=linkedin" /></a>
+<a href="https://instagram.com/jorgenkrieger" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-Instagram-B6334C.svg?style=for-the-badge&colorA=E4405F&logoColor=FFF&logo=instagram" /></a>
+<a href="https://codepen.io/labelnoir" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-CodePen-18191E.svg?style=for-the-badge&colorA=1E1F26&logoColor=FFF&logo=codepen" /></a>
+</div>
 
-### Once upon a time there was...
+### In short
+- 🇳🇱 Located in Rotterdam, The Netherlands 
 
-<p>Me! Hey, I'm a <strong>UX Designer</strong> employed at <a href="https://www.rox.nl" target="_blank" rel="noopener noreferrer" />ROX</a> with a strong interest in all kinds of Development. Currently located in <em>Rotterdam, The Netherlands</em> 🇳🇱</p>
+- 🌱 I'm currently getting familiar with the [Vercel](https://vercel.com/) eco-system
 
-<p>This profile will reflect my desire to streamline everything. From automating my setup through dotfiles, to a template for web projects and concepts for electron apps.</p>
+- 🎓 9 years of design education and about a *decade* of work experience
 
-### Some random facts
+### ⚡️ Uses
 
-- I've designed and developed my own site for 15 years. And it's still not done 🙃
-- ✉️ You can get in touch via my email jorgen@labelnoir.me or <a href="https://www.linkedin.com/in/jorgenkrieger/" target="_blank" rel="noopener noreferrer">LinkedIn</a>
-
-### Tech Stack
-#### Web
-<img src="https://img.shields.io/badge/-React-000.svg?style=for-the-badge&colorA=61DAFB&logoColor=FFF&logo=react" /> <img src="https://img.shields.io/badge/-Docker-000.svg?style=for-the-badge&colorA=2496ED&logoColor=FFF&logo=docker" /> <img src="https://img.shields.io/badge/-Typescript-000.svg?style=for-the-badge&colorA=3178C6&logoColor=FFF&logo=typescript" /> <img src="https://img.shields.io/badge/-GraphQL-000.svg?style=for-the-badge&colorA=E10098&logoColor=FFF&logo=graphql" /> <img src="https://img.shields.io/badge/-Sass-000.svg?style=for-the-badge&colorA=CC6699&logoColor=FFF&logo=Sass" /> 
-
-#### OS/Apps
-<img src="https://img.shields.io/badge/-Python-000.svg?style=for-the-badge&colorA=3776AB&logoColor=FFF&logo=python" /> <img src="https://img.shields.io/badge/-Node.js-000.svg?style=for-the-badge&colorA=339933&logoColor=FFF&logo=nodedotjs" /> <img src="https://img.shields.io/badge/-Electron-000.svg?style=for-the-badge&colorA=47848F&logoColor=FFF&logo=electron" /> 
-
-### Socials
-<a href="https://linkedin.com/in/jorgenkrieger" target="_blank" rel="noopener noreferrer">LinkedIn</a> | <a href="https://www.instagram.com/jorgenkrieger/" target="_blank" rel="noopener noreferrer">Instagram</a> | <a href="https://codepen.io/labelnoir" target="_blank" rel="noopener noreferrer">Codepen</a>
+- **Web Languages**: Javascript, Typescript, GraphQL, HTML, CSS/SASS
+- **Frameworks**: Next.js, Tailwind CSS
+- **Themes**: Accessibility, Automatisation
+- **Apps**: [Figma](https://figma.com), [Visual Studio Code](https://code.visualstudio.com/), [iTerm2](https://iterm2.com/), [Docker](https://www.docker.com/), [Hammerspoon](http://www.hammerspoon.org/), [Raycast](https://www.raycast.com/)
