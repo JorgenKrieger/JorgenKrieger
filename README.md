@@ -1,5 +1,5 @@
 <h1 align="center">Hello <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> I'm Jörgen</h1>
-<h4 align="center">A dutch UX designer with a strong ~~obsession~~ interest in all kinds of developments.</h1>
+<h4 align="center">A dutch UX designer with a strong <strike>obsession</strike> interest in all kinds of developments.</h1>
 <div align="center">
 <a href="https://linkedin.com/in/jorgenkrieger" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-LinkedIn-08529B.svg?style=for-the-badge&colorA=0A66C2&logoColor=FFF&logo=linkedin" /></a>
 <a href="https://instagram.com/jorgenkrieger" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/-Instagram-B6334C.svg?style=for-the-badge&colorA=E4405F&logoColor=FFF&logo=instagram" /></a>
